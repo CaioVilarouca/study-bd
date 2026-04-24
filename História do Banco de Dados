@@ -1,0 +1,21 @@
+Origem dos Bancos de Dados
+
+	Arquivos ->  Guardão
+		Tabelas -> Guardão
+			Registro
+------------------------------------------------------------------------------
+Arquivos em sequências
+	Dados eram guardados em sequências.
+
+	Desvantagens: Rebobinar a fita e demorava muito.
+------------------------------------------------------------------------------
+Arquivos de Acesso Direto
+	São arquivos onde os registros são armazenados e acessados de maneira direta.
+------------------------------------------------------------------------------
+LIFO: Last In, First Out
+	Último a entrar, primeiro a sair 
+	Pilha de pratos
+FIFO: First In, First Out
+	Primeiro a entrar, primeiro a sair
+	Fila de banco 
+------------------------------------------------------------------------------
