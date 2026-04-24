@@ -15,7 +15,30 @@ Arquivos de Acesso Direto
 LIFO: Last In, First Out
 	Último a entrar, primeiro a sair 
 	Pilha de pratos
+
 FIFO: First In, First Out
 	Primeiro a entrar, primeiro a sair
 	Fila de banco 
 ------------------------------------------------------------------------------
+Modelo Hierárquico
+	Dados seriam armazenados e teriam uma hierarquia.
+
+Modelo de Rede
+	Como a evolução do hierárquico surgiu modelo em rede
+------------------------------------------------------------------------------
+CODASYL:	
+	Desenvolvimento da linguagem de programação COBOL e do Modelo de Dados CODASYL 
+	
+	1. Banco de dados	
+		São os dados propriamente ditos
+	2. Sistema Gerenciador
+		SGBD - Sistema Gerenciador de Banco de Dados
+	3. Linguagem de exploração
+		SQL
+------------------------------------------------------------------------------
+Edgar F. Cold
+	Criador do modelo relacional
+	Organiza os dados em tabelas, formadas por linhas e colunas. Nesse modelo, as informações podem ser relacionadas entre si por meio de chaves, como a chave primária e a chave estrangeira.
+------------------------------------------------------------------------------
+Structured Query Language (SQL)
+	Linguagem de consulta.
