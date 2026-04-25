@@ -1,0 +1,17 @@
+DESCRIBE nomeTabela;
+	Vai descrever a tabela.
+
+USE nomeDoBanco;
+	Abrir o banco de dados;
+
+CREATE DATABASE nomeDoBanco;
+	Criar o banco de dados
+
+SHOW DATABASE nomeDoBanco;
+	Ver quantidade de Banco;
+
+SHOW TABLES nomeTabelas;
+	Ver quantidade de tabelas;
+
+STATUS;
+	Ver os status;
